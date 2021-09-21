@@ -1,0 +1,18 @@
+.content {
+    margin-top: 200px;
+}
+
+.input-group {
+    padding-top: 20px;
+    width: 50%;
+}
+
+body {
+    background-color: black
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
