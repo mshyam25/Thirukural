@@ -27,6 +27,7 @@ async function thirukural() {
     }
 
 }
+// Function to append the data to the document
 
 function appendData(data) {
 
